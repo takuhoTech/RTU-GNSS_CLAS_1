@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP BP2G1+
+D Signal Conditioning 2 Ways MMIC DC Pass Power Splitter, 1200 - 2000 MHz, 50 ohms
+K
+F https://www.minicircuits.com/pdfs/BP2G1+.pdf
+$ENDCMP
+#
+#End Doc Library

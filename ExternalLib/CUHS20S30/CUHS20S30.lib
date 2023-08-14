@@ -1,0 +1,32 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model CUHS20S30,H3F
+#/2251521/960441/2.49/2/4/Schottky Diode
+DEF CUHS20S30,H3F D 0 30 Y Y 1 F N
+F0 "D" 500 350 50 H V L CNN
+F1 "CUHS20S30,H3F" 500 250 50 H V L CNN
+F2 "CUHS20S40H3F" 500 150 50 H I L CNN
+F3 "https://toshiba.semicon-storage.com/info/docget.jsp?did=63606&prodName=CUHS20S30" 500 50 50 H I L CNN
+F4 "Schottky Diodes & Rectifiers Sml-Signal Schottky 2A 30V 390pF" 500 -50 50 H I L CNN "Description"
+F5 "" 500 -150 50 H I L CNN "Height"
+F6 "Toshiba" 500 -250 50 H I L CNN "Manufacturer_Name"
+F7 "CUHS20S30,H3F" 500 -350 50 H I L CNN "Manufacturer_Part_Number"
+F8 "757-CUHS20S30H3F" 500 -450 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Toshiba/CUHS20S30H3F?qs=PqoDHHvF64%252BnIC9Qnnw9zg%3D%3D" 500 -550 50 H I L CNN "Mouser Price/Stock"
+F10 "" 500 -650 50 H I L CNN "Arrow Part Number"
+F11 "" 500 -750 50 H I L CNN "Arrow Price/Stock"
+F12 "" 500 -850 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 500 -950 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X ~ 1 100 0 100 R 50 50 0 0 P
+X ~ 2 700 0 100 L 50 50 0 0 P
+P 2 0 1 6 300 100 300 -100 N
+P 3 0 1 6 300 100 340 100 340 60 N
+P 3 0 1 6 300 -100 260 -100 260 -60 N
+P 2 0 1 6 200 0 300 0 N
+P 2 0 1 6 500 0 600 0 N
+P 4 0 1 10 300 0 500 100 500 -100 300 0 F
+ENDDRAW
+ENDDEF
+#
+#End Library

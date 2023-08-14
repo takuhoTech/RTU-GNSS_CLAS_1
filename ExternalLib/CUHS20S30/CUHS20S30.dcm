@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CUHS20S30,H3F
+D Schottky Diodes & Rectifiers Sml-Signal Schottky 2A 30V 390pF
+K
+F https://toshiba.semicon-storage.com/info/docget.jsp?did=63606&prodName=CUHS20S30
+$ENDCMP
+#
+#End Doc Library

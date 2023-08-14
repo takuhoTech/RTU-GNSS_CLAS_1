@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ML-1220_F1AN
+D Manganese Lithium Coin Batteries
+K
+F http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Inustrial/ML_Serie.pdf
+$ENDCMP
+#
+#End Doc Library

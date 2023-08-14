@@ -1,0 +1,27 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model ML-1220_F1AN
+#/877748/960441/2.49/2/4/Battery
+DEF ML-1220_F1AN BT 0 30 Y Y 1 F N
+F0 "BT" 650 300 50 H V L CNN
+F1 "ML-1220_F1AN" 650 200 50 H V L CNN
+F2 "ML-1220F1AN" 650 100 50 H I L CNN
+F3 "http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Inustrial/ML_Serie.pdf" 650 0 50 H I L CNN
+F4 "Manganese Lithium Coin Batteries" 650 -100 50 H I L CNN "Description"
+F5 "" 650 -200 50 H I L CNN "Height"
+F6 "Panasonic" 650 -300 50 H I L CNN "Manufacturer_Name"
+F7 "ML-1220/F1AN" 650 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "658-ML-1220/F1AN" 650 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Panasonic-Battery/ML-1220-F1AN?qs=1eQvB6Dk1vhDP8XMeN6jSg%3D%3D" 650 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "ML-1220/F1AN" 650 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ml-1220f1an/panasonic?region=nac" 650 -800 50 H I L CNN "Arrow Price/Stock"
+F12 "" 650 -900 50 H I L CNN "Mouser Testing Part Number"
+F13 "" 650 -1000 50 H I L CNN "Mouser Testing Price/Stock"
+DRAW
+X + 1 0 0 200 R 50 50 0 0 P
+X - 2 0 -100 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 600 100 600 -200 200 -200 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

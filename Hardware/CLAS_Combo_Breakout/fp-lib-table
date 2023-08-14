@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "NEO-D9")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/NEO-D9/NEO-D9.pretty")(options "")(descr ""))
+  (lib (name "BP2G1+")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/BP2G1+/BP2G1+.pretty")(options "")(descr ""))
+  (lib (name "ML-1220_F1AN")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/ML-1220_F1AN/ML-1220_F1AN.pretty")(options "")(descr ""))
+  (lib (name "CUHS20S30")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/CUHS20S30/CUHS20S30.pretty")(options "")(descr ""))
+  (lib (name "GGBLA.125.A")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/GGBLA.125.A/GGBLA.125.A.pretty")(options "")(descr ""))
+)

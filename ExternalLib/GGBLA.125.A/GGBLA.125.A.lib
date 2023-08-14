@@ -1,0 +1,26 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model GGBLA.125.A
+#/5298842/960441/2.50/3/4/Connector
+DEF GGBLA.125.A J 0 30 Y Y 1 F N
+F0 "J" 1250 300 50 H V L CNN
+F1 "GGBLA.125.A" 1250 200 50 H V L CNN
+F2 "GGBLA125A" 1250 100 50 H I L CNN
+F3 "https://componentsearchengine.com/Datasheets/1/GGBLA.125.A.pdf" 1250 0 50 H I L CNN
+F4 "Antennas GPS/GLONASS/GALILEO BeiDou Ceramic" 1250 -100 50 H I L CNN "Description"
+F5 "1.5" 1250 -200 50 H I L CNN "Height"
+F6 "Taoglas" 1250 -300 50 H I L CNN "Manufacturer_Name"
+F7 "GGBLA.125.A" 1250 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "960-GGBLA.125.A" 1250 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Taoglas/GGBLA125A?qs=P1JMDcb91o7M3V2B6%2FBWYg%3D%3D" 1250 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "GGBLA.125.A" 1250 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/ggbla.125.a/taoglas" 1250 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X FEED_(50_OHM) 1 0 -100 200 R 50 50 0 0 P
+X GROUND_FEED_1 2 0 0 200 R 50 50 0 0 P
+X GROUND_FEED_2 3 0 -200 200 R 50 50 0 0 P
+P 5 0 1 6 200 100 1200 100 1200 -300 200 -300 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

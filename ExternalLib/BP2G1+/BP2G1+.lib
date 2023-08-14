@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model BP2G1+
+#/11480310/960441/2.50/8/3/Integrated Circuit
+DEF BP2G1+ IC 0 30 Y Y 1 F N
+F0 "IC" 1350 300 50 H V L CNN
+F1 "BP2G1+" 1350 200 50 H V L CNN
+F2 "BP2G1" 1350 100 50 H I L CNN
+F3 "https://www.minicircuits.com/pdfs/BP2G1+.pdf" 1350 0 50 H I L CNN
+F4 "Signal Conditioning 2 Ways MMIC DC Pass Power Splitter, 1200 - 2000 MHz, 50 ohms" 1350 -100 50 H I L CNN "Description"
+F5 "1.96" 1350 -200 50 H I L CNN "Height"
+F6 "Mini-Circuits" 1350 -300 50 H I L CNN "Manufacturer_Name"
+F7 "BP2G1+" 1350 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "139-BP2G1" 1350 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/Mini-Circuits/BP2G1%2b?qs=xZ%2FP%252Ba9zWqbP7kERcTSISA%3D%3D" 1350 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "" 1350 -700 50 H I L CNN "Arrow Part Number"
+F11 "" 1350 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X GROUND_1 1 0 0 200 R 50 50 0 0 P
+X SUM_PORT 2 0 -100 200 R 50 50 0 0 P
+X GROUND_2 3 0 -200 200 R 50 50 0 0 P
+X GROUND_3 4 0 -300 200 R 50 50 0 0 P
+X PORT_2 5 1500 -300 200 L 50 50 0 0 P
+X GROUND_4 6 1500 -200 200 L 50 50 0 0 P
+X GROUND_5 7 1500 -100 200 L 50 50 0 0 P
+X PORT_1 8 1500 0 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1300 100 1300 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

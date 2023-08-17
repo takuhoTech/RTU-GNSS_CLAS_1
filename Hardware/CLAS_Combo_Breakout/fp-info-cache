@@ -1,4 +1,4 @@
-20596867265256788
+20605328181378944
 Akizuki_XC9306
 Akizuki_XC9306
 
@@ -50329,6 +50329,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DSS20200L-7
+DSS20200L-7
+SOT103P240X110-3N
+Undefined or Miscellaneous
+0
+3
+3
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -58036,6 +58043,20 @@ Yellow 5381 Series LED
 0
 2
 2
+LQW2BANR12J00L
+LQW2BANR12J00L
+0805 (2015) T=1.42±0.1mm
+Inductor
+0
+2
+2
+LQW15AN9N5G00D
+LQW15AN9N5G00D
+0402 (1005) T=0.5±0.1mm
+Inductor
+0
+2
+2
 ML-1220_F1AN
 ML-1220_F1AN
 ML-1220/F1AN
@@ -60612,6 +60633,20 @@ NEO-D9S-00B
 0
 24
 24
+NJU7109F
+NJU7109F
+SOT-23-5
+Integrated Circuit
+0
+5
+5
+NT1191GEAE3S
+NT1191GEAE3S
+
+
+0
+7
+7
 NetTie
 NetTie-2_SMD_Pad0.5mm
 Net tie, 2 pin, 0.5mm square SMD pads

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP LQW15AN9N5G00D
+D Murata LQW15A Series Wire-wound SMD Inductor with a Ferrite Core, 0.0095 uH +/-2% 540mA Idc Q:25
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets_SAMA/97451af591734477ab6d2485aab35b5f.pdf
+$ENDCMP
+#
+#End Doc Library

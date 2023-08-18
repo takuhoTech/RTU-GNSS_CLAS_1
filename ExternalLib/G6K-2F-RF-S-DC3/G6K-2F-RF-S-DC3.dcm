@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP G6K-2F-RF-S-DC3
+D High Frequency / RF Relays 1GHz SpSavGrd NoLtch DPDT 3VDC 100mW
+K
+F https://www.mouser.com/datasheet/2/307/en-g6k_2f_rf-536501.pdf
+$ENDCMP
+#
+#End Doc Library

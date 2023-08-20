@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "MicroMod_Processor_Board_(2)")(type Legacy)(uri "${KIPRJMOD}/MicroMod_Processor_Board (2).lib")(options "")(descr ""))
+)

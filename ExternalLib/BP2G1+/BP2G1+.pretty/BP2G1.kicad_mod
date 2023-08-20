@@ -5,7 +5,7 @@
   (tags "Integrated Circuit")
   (attr smd)
   (fp_text reference "U**" (at 0 0) (layer "F.SilkS")
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 75e7accc-e9bf-4d5e-8c15-30aabcafa029)
   )
   (fp_text value "BP2G1" (at 0 0) (layer "F.SilkS") hide
@@ -13,7 +13,7 @@
     (tstamp ba69a78b-fc91-4301-a1d4-02d559d8b600)
   )
   (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9b324b95-9400-4685-8c5a-16256e7aa2c0)
   )
   (fp_line (start -1.905 4) (end -1.905 4) (layer "F.SilkS") (width 0.1) (tstamp 79c05a01-7c6c-4877-b2ac-c36ce99fb395))

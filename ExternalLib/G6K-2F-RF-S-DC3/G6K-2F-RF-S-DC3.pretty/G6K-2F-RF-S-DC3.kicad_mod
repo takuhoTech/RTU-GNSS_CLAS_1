@@ -5,7 +5,7 @@
   (tags "Relay or Contactor")
   (attr smd)
   (fp_text reference "RY**" (at 0 0) (layer "F.SilkS")
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1 1) (thickness 0.15)))
     (tstamp e3af47d6-a053-439b-ab7c-73a162af6701)
   )
   (fp_text value "G6K2FRFSDC3" (at 0 0.525) (layer "F.SilkS") hide
@@ -13,7 +13,7 @@
     (tstamp d944decf-24d1-4be6-a6e4-0f4eafb4b892)
   )
   (fp_text user "${REFERENCE}" (at 0 0) (layer "F.Fab")
-    (effects (font (size 1.27 1.27) (thickness 0.254)))
+    (effects (font (size 1 1) (thickness 0.15)))
     (tstamp cb90c1aa-3841-45a6-a976-9c4b42e0e8de)
   )
   (fp_line (start 5.35 2) (end 5.35 -2) (layer "F.SilkS") (width 0.1) (tstamp 3b0ee0a3-ee1c-4616-9cca-b8aa01e5697e))

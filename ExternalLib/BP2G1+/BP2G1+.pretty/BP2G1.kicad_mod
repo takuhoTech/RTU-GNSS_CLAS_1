@@ -38,4 +38,9 @@
   (pad "6" smd rect (at 0.635 -2.795) (size 0.76 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5d5aeade-8c38-4183-bad7-d57d83a7ba9b))
   (pad "7" smd rect (at -0.635 -2.795) (size 0.76 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp aed325ec-1a7b-4976-9889-caabd09e8b8a))
   (pad "8" smd rect (at -1.905 -2.795) (size 0.76 1.27) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f7ea7369-0cc6-46cc-8ef7-be24b02fc3ad))
+  (model "${KIPRJMOD}/../../ExternalLib/BP2G1+/BP2G1+.stp"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz 0 0 -90))
+  )
 )

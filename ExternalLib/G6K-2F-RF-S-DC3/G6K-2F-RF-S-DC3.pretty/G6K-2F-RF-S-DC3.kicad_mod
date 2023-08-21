@@ -48,8 +48,8 @@
   (pad "MP5" smd rect (at -2.2 -3.75) (size 1.8 2.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5f91cb74-ace9-4d1c-88b1-5b29ee074282))
   (pad "MP6" smd rect (at -5 -3.75) (size 1 2.1) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 2beea79b-577a-4800-a250-82b3f82b3efa))
   (model "${KIPRJMOD}/../../ExternalLib/G6K-2F-RF-S-DC3/G6K-2F-RF-S-DC3.stp"
-    (offset (xyz 0 0 0))
+    (offset (xyz -3.8 0 0))
     (scale (xyz 1 1 1))
-    (rotate (xyz 0 0 0))
+    (rotate (xyz -90 0 0))
   )
 )

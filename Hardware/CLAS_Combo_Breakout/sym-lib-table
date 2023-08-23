@@ -12,5 +12,5 @@
   (lib (name "NT1191GEAE3S")(type "KiCad")(uri "D:/GitHub/Low-cost-QZSS-CLAS-module/ExternalLib/NT1191GEAE3S/NT1191GEAE3S.kicad_sym")(options "")(descr ""))
   (lib (name "LQW15AN9N5G00D")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/LQW15AN9N5G00D/LQW15AN9N5G00D.kicad_sym")(options "")(descr ""))
   (lib (name "G6K-2F-RF-S-DC3")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/G6K-2F-RF-S-DC3/G6K-2F-RF-S-DC3.kicad_sym")(options "")(descr ""))
-  (lib (name "SparkFun_MicroMod_ESP32")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/SparkFun_MicroMod_ESP32/SparkFun_MicroMod_ESP32.kicad_sym")(options "")(descr ""))
+  (lib (name "MicroMod")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/MicroMod/MicroMod.kicad_sym")(options "")(descr ""))
 )

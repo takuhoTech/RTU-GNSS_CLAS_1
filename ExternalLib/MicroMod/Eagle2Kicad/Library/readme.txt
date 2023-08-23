@@ -1,0 +1,1 @@
+Converts lbr. to .mod + .lib + .dcm files for kicad

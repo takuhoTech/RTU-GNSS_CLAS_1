@@ -5524,7 +5524,7 @@
     (uuid c1f8d42f-0e23-4789-b87b-a02b45b47937)
     (property "Reference" "J3" (id 0) (at 34.29 161.29 0))
     (property "Value" "Conn_SMA" (id 1) (at 30.48 163.83 0))
-    (property "Footprint" "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount" (id 2) (at 38.1 162.56 0)
+    (property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical" (id 2) (at 38.1 162.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 38.1 162.56 0)
@@ -6451,7 +6451,7 @@
       (reference "J2") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB:USB_C_Receptacle_GCT_USB4085")
     )
     (path "/c1f8d42f-0e23-4789-b87b-a02b45b47937"
-      (reference "J3") (unit 1) (value "Conn_SMA") (footprint "Connector_Coaxial:SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount")
+      (reference "J3") (unit 1) (value "Conn_SMA") (footprint "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical")
     )
     (path "/b54126b3-7985-4549-85a9-fc253ef56032"
       (reference "JP1") (unit 1) (value "I2C") (footprint "Jumper:SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels")

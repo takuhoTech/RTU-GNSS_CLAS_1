@@ -13,4 +13,5 @@
   (lib (name "NGFF")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/NGFF/NGFF.pretty")(options "")(descr ""))
   (lib (name "MicroMod")(type "Eagle")(uri "${KIPRJMOD}/../../ExternalLib/MicroMod/MicroMod.lbr")(options "")(descr ""))
   (lib (name "MicroMod_KiCad")(type "KiCad")(uri "D:/GitHub/Low-cost-QZSS-CLAS-module/ExternalLib/MicroMod_KiCad/MicroMod_KiCad.pretty")(options "")(descr ""))
+  (lib (name "Connector_USB_extlib")(type "KiCad")(uri "D:/GitHub/Low-cost-QZSS-CLAS-module/ExternalLib/Connector_USB_extlib/Connector_USB_extlib.pretty")(options "")(descr ""))
 )

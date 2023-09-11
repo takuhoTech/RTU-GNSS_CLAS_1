@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP F2933NBGP
+D The F2933is a high-reliability, low-insertion loss, 50  SP2T absorptive RF switch designed for a wide range of markets and applications. This device covers a broad frequency range from 50 MHz to 8000 MHz, has an operating temperature range of -40 to 105C and wide supply voltage range of 2.7 - 5.5 VDC. Designed for high-power handling, the F2933has a P1 dB as high as 36.5 dBm, supporting a peak operating power of 34 dBm in the through path and a hot switching power of 27 dBm into the terminated RF port.
+K
+F https://www.idt.com/document/dst/f2933-datasheet-revo
+$ENDCMP
+#
+#End Doc Library

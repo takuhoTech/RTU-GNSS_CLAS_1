@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MASWSS0178TR-3000
+D RF Switch ICs 10-3000MHz ISO 57dB IL .7db @1.9GHz
+K
+F https://componentsearchengine.com/Datasheets/1/MASWSS0178TR-3000.pdf
+$ENDCMP
+#
+#End Doc Library

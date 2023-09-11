@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP F2923NCGI
+D The F2923 is a low insertion loss 50 SP2T (SPDT) absorptive RF Switch designed for a multitude of wireless and other RF applications. This device covers a broad frequency range from 300 kHz to 8000 MHz. In addition to providing low insertion loss, industry leading isolation at 2 GHz and excellent linearity, the F2923 also includes a patent pending constant impedance (K|z|) feature.
+K
+F https://www.idt.com/document/dst/f2923-datasheet-rev0
+$ENDCMP
+#
+#End Doc Library

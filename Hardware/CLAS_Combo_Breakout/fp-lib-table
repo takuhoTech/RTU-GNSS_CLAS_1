@@ -18,4 +18,7 @@
   (lib (name "F2923NCGI")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/F2923NCGI/F2923NCGI.pretty")(options "")(descr ""))
   (lib (name "F2933NBGP")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/F2933NBGP/F2933NBGP.pretty")(options "")(descr ""))
   (lib (name "PD0922J5050S2HF")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/PD0922J5050S2HF/PD0922J5050S2HF.pretty")(options "")(descr ""))
+  (lib (name "IMG_MiraKonohata")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/MiraKonohata.pretty")(options "")(descr ""))
+  (lib (name "IMG_AoManaka")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/AoManaka.pretty")(options "")(descr ""))
+  (lib (name "Battery_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Battery_extlib/Battery_extlib.pretty")(options "")(descr ""))
 )

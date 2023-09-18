@@ -1,4 +1,4 @@
-20632574651250008
+20639382864094796
 Akizuki_XC9306
 Akizuki_XC9306
 
@@ -332,6 +332,13 @@ Battery
 Battery_Panasonic_CR3032-VCN_Vertical_CircularHoles
 Panasonic CR-3032/VCN battery, https://industrial.panasonic.com/cdbs/www-data/pdf2/AAA4000/AAA4000D508.PDF
 battery CR-3032 coin cell vertical
+0
+2
+2
+Battery_extlib
+MS421R
+
+
 0
 2
 2
@@ -46123,6 +46130,13 @@ Mini USB 2.0 Type B
 9
 6
 Connector_USB_extlib
+USB_C_Receptacle_5077CR-16-SMC2-BK-TR
+
+
+0
+20
+17
+Connector_USB_extlib
 USB_C_Receptacle_GCT_USB4120-03-C
 
 
@@ -53416,6 +53430,20 @@ heatsink
 0
 2
 1
+IMG_AoManaka
+AoManaka
+
+
+0
+0
+0
+IMG_MiraKonohata
+MiraKonohata
+
+
+0
+0
+0
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height

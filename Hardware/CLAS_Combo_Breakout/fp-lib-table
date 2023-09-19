@@ -21,4 +21,5 @@
   (lib (name "IMG_MiraKonohata")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/MiraKonohata.pretty")(options "")(descr ""))
   (lib (name "IMG_AoManaka")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/AoManaka.pretty")(options "")(descr ""))
   (lib (name "Battery_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Battery_extlib/Battery_extlib.pretty")(options "")(descr ""))
+  (lib (name "IMG_Star")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/Star.pretty")(options "")(descr ""))
 )

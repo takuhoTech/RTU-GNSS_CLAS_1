@@ -22,4 +22,5 @@
   (lib (name "IMG_AoManaka")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/AoManaka.pretty")(options "")(descr ""))
   (lib (name "Battery_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Battery_extlib/Battery_extlib.pretty")(options "")(descr ""))
   (lib (name "IMG_Star")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/Star.pretty")(options "")(descr ""))
+  (lib (name "Jumper_extlib")(type "KiCad")(uri "D:/GitHub/Low-cost-QZSS-CLAS-module/ExternalLib/Jumper_extlib/Jumper_extlib.pretty")(options "")(descr ""))
 )

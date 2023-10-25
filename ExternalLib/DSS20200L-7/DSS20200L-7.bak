@@ -42,6 +42,14 @@
     (symbol "DSS20200L-7_0_1"
       (polyline
         (pts
+          (xy -2.82 0)
+          (xy -0.635 0)
+        )
+        (stroke (width 0) (type default) (color 0 0 0 0))
+        (fill (type none))
+      )
+      (polyline
+        (pts
           (xy -0.635 0.635)
           (xy 1.27 2.54)
         )
@@ -83,7 +91,7 @@
       )
     )
     (symbol "DSS20200L-7_1_1"
-      (pin input line (at -5.08 0 0) (length 4.445)
+      (pin input line (at -5.08 0 0) (length 2.26)
         (name "B" (effects (font (size 1.27 1.27))))
         (number "1" (effects (font (size 1.27 1.27))))
       )

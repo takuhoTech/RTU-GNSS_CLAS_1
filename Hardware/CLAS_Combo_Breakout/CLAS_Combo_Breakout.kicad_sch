@@ -625,7 +625,7 @@
       )
     )
     (symbol "DSS20200L-7:DSS20200L-7" (in_bom yes) (on_board yes)
-      (property "Reference" "U" (id 0) (at 3.81 3.81 0)
+      (property "Reference" "Q" (id 0) (at 3.81 3.81 0)
         (effects (font (size 1.27 1.27)))
       )
       (property "Value" "DSS20200L-7" (id 1) (at -7.62 3.81 0)
@@ -4668,7 +4668,7 @@
   (symbol (lib_id "PD0922J5050S2HF:PD0922J5050S2HF") (at 123.19 167.64 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 18c0aa5d-674b-40ff-9786-65c2af4b8f3a)
-    (property "Reference" "U8" (id 0) (at 123.19 160.02 0))
+    (property "Reference" "U9" (id 0) (at 123.19 160.02 0))
     (property "Value" "PD0922J5050S2HF" (id 1) (at 123.19 162.56 0))
     (property "Footprint" "PD0922J5050S2HF:PD0922J5050S2HF_ANA" (id 2) (at 123.19 175.26 0)
       (effects (font (size 1.27 1.27) italic) hide)
@@ -4705,7 +4705,7 @@
   (symbol (lib_id "NT1191GEAE3S:NT1191GEAE3S") (at 66.04 185.42 0) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid 227e032c-a965-4181-9cad-30c22164f63e)
-    (property "Reference" "U10" (id 0) (at 71.12 187.96 0))
+    (property "Reference" "U7" (id 0) (at 71.12 187.96 0))
     (property "Value" "NT1191GEAE3S" (id 1) (at 72.39 182.88 0)
       (effects (font (size 0.635 0.635)))
     )
@@ -6426,7 +6426,7 @@
   (symbol (lib_id "DSS20200L-7:DSS20200L-7") (at 48.26 153.67 0) (mirror x) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid d4e2c2b1-f9fd-4713-9fee-187d649c8dce)
-    (property "Reference" "U7" (id 0) (at 52.07 151.13 0))
+    (property "Reference" "Q1" (id 0) (at 52.07 151.13 0))
     (property "Value" "DSS20200" (id 1) (at 48.26 153.67 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
@@ -6628,7 +6628,7 @@
   (symbol (lib_id "F2933NBGP:F2933NBGP") (at 96.52 176.53 180) (unit 1)
     (in_bom yes) (on_board yes)
     (uuid e370f382-0910-4fb6-8285-1d9371eb5cba)
-    (property "Reference" "U9" (id 0) (at 96.52 161.29 0))
+    (property "Reference" "U8" (id 0) (at 96.52 161.29 0))
     (property "Value" "F2933NBGP" (id 1) (at 96.52 163.83 0))
     (property "Footprint" "F2933NBGP:F2933NBGP" (id 2) (at 107.95 180.34 0)
       (effects (font (size 1.27 1.27)) hide)
@@ -7219,6 +7219,9 @@
     (path "/cb151227-edd6-414d-a78a-15ea2070f06b"
       (reference "L2") (unit 1) (value "LQW15AN9N5G00D") (footprint "LQW15AN9N5G00D:LQW15AN9N5G00D")
     )
+    (path "/d4e2c2b1-f9fd-4713-9fee-187d649c8dce"
+      (reference "Q1") (unit 1) (value "DSS20200") (footprint "DSS20200L-7:DSS20200L-7")
+    )
     (path "/9e101cf8-88ad-4ea8-978c-246e3974522f"
       (reference "R1") (unit 1) (value "33") (footprint "Resistor_SMD:R_0603_1608Metric")
     )
@@ -7345,17 +7348,14 @@
     (path "/a121179d-f3c1-463a-98a2-abb216cf94cf"
       (reference "U6") (unit 1) (value "AP2112K-3.3") (footprint "Package_TO_SOT_SMD:SOT-23-5")
     )
-    (path "/d4e2c2b1-f9fd-4713-9fee-187d649c8dce"
-      (reference "U7") (unit 1) (value "DSS20200") (footprint "DSS20200L-7:DSS20200L-7")
-    )
-    (path "/18c0aa5d-674b-40ff-9786-65c2af4b8f3a"
-      (reference "U8") (unit 1) (value "PD0922J5050S2HF") (footprint "PD0922J5050S2HF:PD0922J5050S2HF_ANA")
+    (path "/227e032c-a965-4181-9cad-30c22164f63e"
+      (reference "U7") (unit 1) (value "NT1191GEAE3S") (footprint "NT1191GEAE3S:NT1191GEAE3S")
     )
     (path "/e370f382-0910-4fb6-8285-1d9371eb5cba"
-      (reference "U9") (unit 1) (value "F2933NBGP") (footprint "F2933NBGP:F2933NBGP")
+      (reference "U8") (unit 1) (value "F2933NBGP") (footprint "F2933NBGP:F2933NBGP")
     )
-    (path "/227e032c-a965-4181-9cad-30c22164f63e"
-      (reference "U10") (unit 1) (value "NT1191GEAE3S") (footprint "NT1191GEAE3S:NT1191GEAE3S")
+    (path "/18c0aa5d-674b-40ff-9786-65c2af4b8f3a"
+      (reference "U9") (unit 1) (value "PD0922J5050S2HF") (footprint "PD0922J5050S2HF:PD0922J5050S2HF_ANA")
     )
   )
 )

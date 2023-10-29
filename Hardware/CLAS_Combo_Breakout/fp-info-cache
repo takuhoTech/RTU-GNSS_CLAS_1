@@ -1,4 +1,4 @@
-20649523054865144
+20651221656944654
 Akizuki_XC9306
 Akizuki_XC9306
 
@@ -8356,7 +8356,7 @@ Connector_Coaxial_extlib
 Connector
 0
 5
-5
+2
 Connector_DIN
 DIN41612_B2_2x8_Female_Vertical_THT
 DIN41612 connector, type B/2, Vertical, 2 rows 16 pins wide, https://www.erni-x-press.com/de/downloads/kataloge/englische_kataloge/erni-din41612-iec60603-2-e.pdf
@@ -58159,6 +58159,13 @@ LQW15AN9N5G00D
 LQW15AN9N5G00D
 0402 (1005) T=0.5±0.1mm
 Inductor
+0
+2
+2
+LQW18ANR12G8ZD
+LQW18ANR12G8ZD
+
+
 0
 2
 2

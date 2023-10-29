@@ -6080,10 +6080,10 @@
     (property "Reference" "L1" (id 0) (at 50.8 162.5599 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "LQW2BANR12J00L" (id 1) (at 50.8 165.0999 0)
+    (property "Value" "LQW18ANR12G8ZD" (id 1) (at 50.8 165.0999 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "LQW2BANR12J00L:LQW2BANR12J00L" (id 2) (at 49.53 163.83 0)
+    (property "Footprint" "LQW18ANR12G8ZD:LQW18ANR12G8ZD" (id 2) (at 49.53 163.83 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (id 3) (at 49.53 163.83 0)
@@ -7214,7 +7214,7 @@
       (reference "JP1") (unit 1) (value "I2C") (footprint "Jumper_extlib:SolderJumper-3_Open_RoundedPad")
     )
     (path "/be16f664-0619-4856-937a-e239b591adad"
-      (reference "L1") (unit 1) (value "LQW2BANR12J00L") (footprint "LQW2BANR12J00L:LQW2BANR12J00L")
+      (reference "L1") (unit 1) (value "LQW18ANR12G8ZD") (footprint "LQW18ANR12G8ZD:LQW18ANR12G8ZD")
     )
     (path "/cb151227-edd6-414d-a78a-15ea2070f06b"
       (reference "L2") (unit 1) (value "LQW15AN9N5G00D") (footprint "LQW15AN9N5G00D:LQW15AN9N5G00D")

@@ -6129,8 +6129,8 @@
     (in_bom yes) (on_board yes)
     (uuid c1f8d42f-0e23-4789-b87b-a02b45b47937)
     (property "Reference" "J5" (id 0) (at 39.37 166.37 0))
-    (property "Value" "Conn_SMA" (id 1) (at 35.56 168.91 0))
-    (property "Footprint" "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical" (id 2) (at 43.18 167.64 0)
+    (property "Value" "Conn_Coaxial" (id 1) (at 34.29 168.91 0))
+    (property "Footprint" "Connector_Coaxial_extlib:0734152063" (id 2) (at 43.18 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" " ~" (id 3) (at 43.18 167.64 0)
@@ -7208,7 +7208,7 @@
       (reference "J4") (unit 1) (value "USB_C_Receptacle_USB2.0") (footprint "Connector_USB_extlib:USB_C_Receptacle_5077CR-16-SMC2-BK-TR")
     )
     (path "/c1f8d42f-0e23-4789-b87b-a02b45b47937"
-      (reference "J5") (unit 1) (value "Conn_SMA") (footprint "Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical")
+      (reference "J5") (unit 1) (value "Conn_Coaxial") (footprint "Connector_Coaxial_extlib:0734152063")
     )
     (path "/b54126b3-7985-4549-85a9-fc253ef56032"
       (reference "JP1") (unit 1) (value "I2C") (footprint "Jumper_extlib:SolderJumper-3_Open_RoundedPad")

@@ -26,4 +26,5 @@
   (lib (name "IMG_Lagopus2017")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/Lagopus2017.pretty")(options "")(descr ""))
   (lib (name "IMG_LagopusBlack")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/IMG/LagopusBlack.pretty")(options "")(descr ""))
   (lib (name "LOGO_CLAS_Receiver")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/LOGO/CLAS_Receiver.pretty")(options "")(descr ""))
+  (lib (name "Connector_Coaxial_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Connector_Coaxial_extlib/Connector_Coaxial_extlib.pretty")(options "")(descr ""))
 )

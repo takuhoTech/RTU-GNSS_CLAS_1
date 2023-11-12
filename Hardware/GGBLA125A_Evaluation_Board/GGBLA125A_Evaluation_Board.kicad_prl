@@ -1,6 +1,6 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 0,
     "active_layer_preset": "",
     "auto_track_width": false,
     "hidden_nets": [],
@@ -62,11 +62,11 @@
       35,
       36
     ],
-    "visible_layers": "ffc7cef_ffffffff",
+    "visible_layers": "ffefcff_ffffffff",
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "CLAS_Combo_Breakout.kicad_prl",
+    "filename": "GGBLA125A_Evaluation_Board.kicad_prl",
     "version": 3
   },
   "project": {

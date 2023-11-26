@@ -46,9 +46,6 @@ kicad = Image.open(dir + "kicad.png")
 canfd = Image.open(dir + "canfd.jpg")
 canfd = ImageOps.invert(canfd)
 
-# rmf-nhk
-rmf = Image.open(dir + "rmf-nhk.png")
-
 # ublox
 ublox = Image.open(dir + "ublox.png")
 

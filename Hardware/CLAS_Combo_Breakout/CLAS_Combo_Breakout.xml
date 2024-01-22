@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>D:\GitHub\Low-cost-QZSS-CLAS-module\Hardware\CLAS_Combo_Breakout\CLAS_Combo_Breakout.kicad_sch</source>
-    <date>2023/11/03 9:08:52</date>
+    <date>2023/11/28 21:19:54</date>
     <tool>Eeschema (6.0.9)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -78,13 +78,13 @@
       <tstamps>8ac0b283-9916-4434-a171-85b1539ca10e</tstamps>
     </comp>
     <comp ref="C3">
-      <value>1u</value>
+      <value>0.1u</value>
       <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>6d304093-7cbd-4561-8d05-6f67b444359f</tstamps>
+      <tstamps>fdc92199-aa87-4c9d-967d-f186d49dc37e</tstamps>
     </comp>
     <comp ref="C4">
       <value>0.1u</value>
@@ -141,13 +141,13 @@
       <tstamps>7f3751d8-f78b-48df-9f8b-6242d813763f</tstamps>
     </comp>
     <comp ref="C10">
-      <value>0.1u</value>
-      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <value>1u</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
       <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
       <sheetpath names="/" tstamps="/"/>
-      <tstamps>fdc92199-aa87-4c9d-967d-f186d49dc37e</tstamps>
+      <tstamps>6d304093-7cbd-4561-8d05-6f67b444359f</tstamps>
     </comp>
     <comp ref="C11">
       <value>47p</value>
@@ -408,7 +408,7 @@
     </comp>
     <comp ref="Q1">
       <value>DSS20200</value>
-      <footprint>DSS20200L-7:DSS20200L-7</footprint>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
       <fields>
         <field name="Footprint_1">SOT103P240X110-3N</field>
         <field name="Manufacturer_Name">Diodes Inc.</field>
@@ -639,7 +639,7 @@
     </comp>
     <comp ref="R24">
       <value>68</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
@@ -657,7 +657,7 @@
     </comp>
     <comp ref="R26">
       <value>22k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
@@ -675,7 +675,7 @@
     </comp>
     <comp ref="R28">
       <value>1.5k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
@@ -684,7 +684,7 @@
     </comp>
     <comp ref="R29">
       <value>100</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
@@ -693,7 +693,7 @@
     </comp>
     <comp ref="R30">
       <value>100</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
@@ -710,8 +710,8 @@
       <tstamps>ee9f82c2-3335-4a66-9b53-1531ffead520</tstamps>
     </comp>
     <comp ref="R32">
-      <value>10k</value>
-      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <value>DNF</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
       <libsource lib="Device" part="R_Small" description="Resistor, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="CLAS_Combo_Breakout.kicad_sch"/>
@@ -795,7 +795,7 @@
       <tstamps>76465ecd-cae5-4403-a9af-0d4c76c8d5e5</tstamps>
     </comp>
     <comp ref="U5">
-      <value>LMV331</value>
+      <value>NJU77251F</value>
       <footprint>Package_TO_SOT_SMD:SOT-23-5</footprint>
       <datasheet>http://www.ti.com/lit/ds/symlink/lmv331.pdf</datasheet>
       <libsource lib="Comparator" part="LMV331" description="Single General-Purpose Low-Voltage Comparator, SOT-23-5/SC-70-5"/>
@@ -1524,10 +1524,10 @@
   <nets>
     <net code="1" name="+3.3V">
       <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C10" pin="1" pintype="passive"/>
       <node ref="C12" pin="1" pintype="passive"/>
       <node ref="C15" pin="1" pintype="passive"/>
       <node ref="C2" pin="1" pintype="passive"/>
-      <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C4" pin="1" pintype="passive"/>
       <node ref="C5" pin="2" pintype="passive"/>
       <node ref="C6" pin="2" pintype="passive"/>
@@ -1733,12 +1733,12 @@
     <net code="38" name="GND">
       <node ref="BT1" pin="2" pinfunction="-" pintype="passive"/>
       <node ref="C1" pin="2" pintype="passive"/>
-      <node ref="C10" pin="1" pintype="passive"/>
+      <node ref="C10" pin="2" pintype="passive"/>
       <node ref="C12" pin="2" pintype="passive"/>
       <node ref="C15" pin="2" pintype="passive"/>
       <node ref="C16" pin="2" pintype="passive"/>
       <node ref="C2" pin="2" pintype="passive"/>
-      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
       <node ref="C4" pin="2" pintype="passive"/>
       <node ref="C5" pin="1" pintype="passive"/>
       <node ref="C6" pin="1" pintype="passive"/>
@@ -1822,8 +1822,8 @@
       <node ref="ANT1" pin="3" pinfunction="GND" pintype="passive"/>
       <node ref="R34" pin="1" pintype="passive"/>
     </net>
-    <net code="42" name="Net-(C10-Pad2)">
-      <node ref="C10" pin="2" pintype="passive"/>
+    <net code="42" name="Net-(C3-Pad2)">
+      <node ref="C3" pin="2" pintype="passive"/>
       <node ref="L1" pin="1" pintype="passive"/>
       <node ref="Q1" pin="3" pinfunction="C" pintype="passive"/>
     </net>

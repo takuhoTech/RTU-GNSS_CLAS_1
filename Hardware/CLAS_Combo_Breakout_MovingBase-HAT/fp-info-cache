@@ -1,4 +1,4 @@
-20659849877866188
+20661556394364634
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -8351,7 +8351,14 @@ mcrf hirose ufl u.fl microcoaxial
 4
 2
 Connector_Coaxial_extlib
-MMCX_Molex_0734152063
+MMCX_Molex_0734152063_Female
+0734152063
+Connector
+0
+5
+2
+Connector_Coaxial_extlib
+MMCX_Samtec_MMCX-P-P-H-ST-SM1_Male
 0734152063
 Connector
 0

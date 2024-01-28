@@ -1,4 +1,4 @@
-(footprint "MMCX_Molex_0734152063" (version 20211014) (generator pcbnew)
+(footprint "MMCX_Molex_0734152063_Female" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
   (descr "0734152063")

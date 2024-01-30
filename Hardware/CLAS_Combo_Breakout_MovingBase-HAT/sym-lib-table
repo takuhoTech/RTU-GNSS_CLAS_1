@@ -19,4 +19,5 @@
   (lib (name "F2933NBGP")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/F2933NBGP/F2933NBGP.kicad_sym")(options "")(descr ""))
   (lib (name "PD0922J5050S2HF")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/PD0922J5050S2HF/PD0922J5050S2HF.kicad_sym")(options "")(descr ""))
   (lib (name "5077CR-16-SMC2-BK-TR")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/5077CR-16-SMC2-BK-TR/5077CR-16-SMC2-BK-TR.kicad_sym")(options "")(descr ""))
+  (lib (name "E220-900T22S(JP)")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/RF_Module_extlib/E220-900T22S(JP).kicad_sym")(options "")(descr ""))
 )

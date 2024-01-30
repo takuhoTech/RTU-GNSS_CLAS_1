@@ -1,4 +1,4 @@
-20661556394364634
+20663263629693037
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -77573,6 +77573,13 @@ nRF24L01 adapter breakout
 0
 8
 8
+RF_Module_extlib
+E220-900T22S(JP)
+
+E220-900T22S 
+0
+22
+22
 RF_Shielding
 Laird_Technologies_97-2002_25.40x25.40mm
 Laird Technologies 97-2002 EZ PEEL Shielding Cabinet One Piece SMD 25.40x25.40mm (https://assets.lairdtech.com/home/brandworld/files/Board%20Level%20Shields%20Catalog%20Download.pdf)

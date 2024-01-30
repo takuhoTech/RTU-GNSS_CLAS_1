@@ -30,4 +30,5 @@
   (lib (name "LQW18ANR12G8ZD")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/LQW18ANR12G8ZD/LQW18ANR12G8ZD.pretty")(options "")(descr ""))
   (lib (name "LOGO_QZSS")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/LOGO/QZSS.pretty")(options "")(descr ""))
   (lib (name "Boards_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Boards_extlib/Boards_extlib.pretty")(options "")(descr ""))
+  (lib (name "RF_Module_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/RF_Module_extlib/RF_Module_extlib.pretty")(options "")(descr ""))
 )

@@ -20,4 +20,5 @@
   (lib (name "PD0922J5050S2HF")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/PD0922J5050S2HF/PD0922J5050S2HF.kicad_sym")(options "")(descr ""))
   (lib (name "5077CR-16-SMC2-BK-TR")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/5077CR-16-SMC2-BK-TR/5077CR-16-SMC2-BK-TR.kicad_sym")(options "")(descr ""))
   (lib (name "E220-900T22S(JP)")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/RF_Module_extlib/E220-900T22S(JP).kicad_sym")(options "")(descr ""))
+  (lib (name "ISP4520-AS")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/RF_Module_extlib/ISP4520-AS.kicad_sym")(options "")(descr ""))
 )

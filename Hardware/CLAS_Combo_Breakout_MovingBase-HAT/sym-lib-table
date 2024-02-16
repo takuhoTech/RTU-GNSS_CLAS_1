@@ -21,4 +21,5 @@
   (lib (name "5077CR-16-SMC2-BK-TR")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/5077CR-16-SMC2-BK-TR/5077CR-16-SMC2-BK-TR.kicad_sym")(options "")(descr ""))
   (lib (name "E220-900T22S(JP)")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/RF_Module_extlib/E220-900T22S(JP).kicad_sym")(options "")(descr ""))
   (lib (name "ISP4520-AS")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/RF_Module_extlib/ISP4520-AS.kicad_sym")(options "")(descr ""))
+  (lib (name "Interface_USB_extlib")(type "KiCad")(uri "D:/GitHub/Low-cost-QZSS-CLAS-module/ExternalLib/Interface_USB_extlib/Interface_USB_extlib.kicad_sym")(options "")(descr ""))
 )

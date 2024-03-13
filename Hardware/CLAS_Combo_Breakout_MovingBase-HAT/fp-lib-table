@@ -33,4 +33,5 @@
   (lib (name "RF_Module_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/RF_Module_extlib/RF_Module_extlib.pretty")(options "")(descr ""))
   (lib (name "Converter_DCDC_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Converter_DCDC_extlib/Converter_DCDC_extlib.pretty")(options "")(descr ""))
   (lib (name "Button_Switch_THT_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Button_Switch_THT_extlib/Button_Switch_THT_extlib.pretty")(options "")(descr ""))
+  (lib (name "Button_Switch_SMD_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Button_Switch_SMD_extlib/Button_Switch_SMD_extlib.pretty")(options "")(descr ""))
 )

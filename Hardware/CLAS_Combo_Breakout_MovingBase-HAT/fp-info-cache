@@ -1,4 +1,4 @@
-20670081682527739
+20675271741574388
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -328,6 +328,13 @@ battery CR-3032 coin cell vertical
 0
 2
 2
+Battery_extlib
+LiPo_3.7V_500mAh_503030
+
+
+0
+0
+0
 Battery_extlib
 MS421R
 
@@ -1574,6 +1581,13 @@ SPST Tactile Switch
 0
 4
 2
+Button_Switch_SMD_extlib
+SW_SPDT_SSSS213202
+SSSS213202
+switch spdt
+0
+6
+3
 Button_Switch_THT
 KSA_Tactile_SPST
 KSA http://www.ckswitches.com/media/1457/ksa_ksl.pdf
@@ -77603,6 +77617,13 @@ E220-900T22S
 22
 RF_Module_extlib
 ISP4520-AS
+
+
+0
+97
+74
+RF_Module_extlib
+ISP4520-AS_with_Keep-Out
 
 
 0

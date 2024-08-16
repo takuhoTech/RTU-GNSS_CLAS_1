@@ -34,5 +34,5 @@
   (lib (name "Converter_DCDC_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Converter_DCDC_extlib/Converter_DCDC_extlib.pretty")(options "")(descr ""))
   (lib (name "Button_Switch_THT_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Button_Switch_THT_extlib/Button_Switch_THT_extlib.pretty")(options "")(descr ""))
   (lib (name "Button_Switch_SMD_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Button_Switch_SMD_extlib/Button_Switch_SMD_extlib.pretty")(options "")(descr ""))
-  (lib (name "test")(type "Eagle")(uri "C:/Users/takuh/Downloads/ISP4520_Eagle_Library/InSight_SiP_ISP4520xx.lbr")(options "")(descr "")(disabled))
+  (lib (name "Package_DFN_QFN_extlib")(type "KiCad")(uri "${KIPRJMOD}/../../ExternalLib/Package_DFN_QFN_extlib/Package_DFN_QFN_extlib.pretty")(options "")(descr ""))
 )
